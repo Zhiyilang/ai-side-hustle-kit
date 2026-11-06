@@ -1,0 +1,10 @@
+# 内部工具脚本（不进商店页仓库）
+__pycache__/
+*.pyc
+_push_*.py
+_gen_covers.py
+_enhance_repo.py
+_fix_buylinks.py
+_set_topics.json
+_topics.json
+.gitignore
