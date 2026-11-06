@@ -1,0 +1,3 @@
+{
+  "query": "mutation { replaceTopics(input: {repositoryId: \"R_kgDOVPUy7Q\", topicNames: [\"ai\",\"aigc\",\"side-hustle\",\"digital-products\",\"chatgpt-prompts\",\"prompt-engineering\",\"templates\",\"automation\",\"tools\",\"pptx\",\"resume\",\"mini-program\",\"xiaohongshu\",\"ecommerce\",\"passive-income\",\"short-drama\",\"ai-art\",\"content-creation\"]}) { repository { topics(first: 20) { nodes { name } } } } }"
+}
