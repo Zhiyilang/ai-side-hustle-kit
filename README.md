@@ -246,6 +246,8 @@ A：本仓库是**展示与引流页**，所有交易在 [爱发电店铺](https
 
 - [🔧 爆款标题+30秒脚本生成器（离线.py）](免费样品/爆款标题脚本生成器.py) — 输入主题，5 秒出 10 个标题 + 一条成片脚本，零依赖双击运行，做抖音/小红书选题直接用
 
+> 🔧 该工具的**独立维护仓库**（持续更新、可 Star）：[Zhiyilang/viral-title-generator](https://github.com/Zhiyilang/viral-title-generator)
+
 
 ---
 
