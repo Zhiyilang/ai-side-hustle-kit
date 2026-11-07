@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zhiyilang.github.io/ai-side-hustle-kit/sitemap.xml
